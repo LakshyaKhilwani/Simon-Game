@@ -1,4 +1,4 @@
-Here is Simon Game 
+Simon Game 
 
 Made by just using HTML, CSS and JavaScript
 
